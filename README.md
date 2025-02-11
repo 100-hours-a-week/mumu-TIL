@@ -14,3 +14,4 @@
 
 ## 2월 2째주, 2주차
 - 25.02.10 : 락, 동기화, 공유자원, 임계영역 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-10.md)
+- 25.02.11 : 오늘은 무얼할까 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-11.md)

@@ -17,3 +17,4 @@
 - 25.02.11 : 락-프리 / 프리-웨이트 알고리즘, 분산락, 그외질문들 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-11.md)
 - 25.02.12 : 클라이언트, 서버, HTTP, 프로토콜, REST [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-12.md)
 - 25.02.13 : JWT, Oauth [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-13.md)
+- 25.02.14 : 웹서버와 웹 애플리케이션 서버 비교 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-14.md)

@@ -24,3 +24,5 @@
 ## 2월 3째주, 2주차
 - 25.02.17 : [3주차 과제] html + css + 바닐라 js [구경하러가기](https://github.com/100-hours-a-week/2-mumu-park-community-fe)
 - 25.02.18 : 쿠키, 세션, JWT, OAuth [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-18.md)
+- 25.02.19 : JS 응용 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-19.md)
+  

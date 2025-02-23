@@ -26,4 +26,7 @@
 - 25.02.18 : 쿠키, 세션, JWT, OAuth [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-18.md)
 - 25.02.19 : JS 응용 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-19.md)
 - 25.02.20 : Promise, Async/Await, 렉시컬 스코프, JS엔진 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-20.md)
+- 25.02.21 : ajax와 fetch의 차이 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-21.md)
+- 25.02.22 : 쉬어가기...
+- 25.02.23 : [4주차 과제] JS 적용 [구경하러가기](https://github.com/100-hours-a-week/2-mumu-park-community-fe)
 

@@ -12,7 +12,7 @@
 - 25.02.08 : 비동기프로그램으로 만들기 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-08.md)
 - 25.02.09 : 리스코프 치환원칙 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-09.md)
 
-## 2월 2째주, 2주차
+## 2월 2째주, 3주차
 - 25.02.10 : 락, 동기화, 공유자원, 임계영역 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-10.md)
 - 25.02.11 : 락-프리 / 프리-웨이트 알고리즘, 분산락, 그외질문들 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-11.md)
 - 25.02.12 : 클라이언트, 서버, HTTP, 프로토콜, REST [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-12.md)
@@ -21,7 +21,7 @@
 - 25.02.15 : [3주차 과제] html + css + 바닐라 js [구경하러가기](https://github.com/100-hours-a-week/2-mumu-park-community-fe)
 - 25.02.16 : [3주차 과제] html + css + 바닐라 js [구경하러가기](https://github.com/100-hours-a-week/2-mumu-park-community-fe)
 
-## 2월 3째주, 2주차
+## 2월 3째주, 4주차
 - 25.02.17 : [3주차 과제] html + css + 바닐라 js [구경하러가기](https://github.com/100-hours-a-week/2-mumu-park-community-fe)
 - 25.02.18 : 쿠키, 세션, JWT, OAuth [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-18.md)
 - 25.02.19 : JS 응용 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-19.md)
@@ -29,4 +29,7 @@
 - 25.02.21 : ajax와 fetch의 차이 [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-21.md)
 - 25.02.22 : 쉬어가기...
 - 25.02.23 : [4주차 과제] JS 적용 [구경하러가기](https://github.com/100-hours-a-week/2-mumu-park-community-fe)
+
+## 2월 4째주, 4주차
+- 25.02.24 : 스코프 체인, 호이스팅,, [구경하러가기](https://github.com/100-hours-a-week/mumu-TIL/blob/main/Feb/25-02-24.md)
 
